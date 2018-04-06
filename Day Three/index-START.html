@@ -23,7 +23,19 @@
   <style>
 
     :root {
-      --base: 
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
+    }
+
+    img {
+      padding: var(--spacing);
+      background: var(--base);
+      filter:blur(var(--blur));
+    }
+
+    .hl {
+      color: var(--base);
     }
 
     /*
@@ -51,6 +63,29 @@
   </style>
 
   <script>
+    //grab all the inputs with the querySelectorAll, then loop over them with a forEach
+
+    const inputs = document.querySelectorAll('.controls input');
+    console.log(inputs);
+
+    function handleUpdate(){
+
+      // grab the data-sizing attribute in the HTML, then change the CSS Variable within the document root, which can be change with the documentElement. And then set the style property
+
+      const suffix = this.dataset.sizing || '';
+      document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
+    }
+    
+    // loop over the selected inputs with a for each. then add the Handleupdate callback
+
+    inputs.forEach(function(input){
+      input.addEventListener('change',handleUpdate)
+      input.addEventListener('mousemove', handleUpdate)
+    })
+
+
+
+
   </script>
 
 </body>
