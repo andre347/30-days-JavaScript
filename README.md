@@ -13,3 +13,7 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Three
 
 [Playing with CSS Variables and JS](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Three)
+
+## Day Four
+
+[Array Cardio Day 1](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Four)
