@@ -17,3 +17,7 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Four
 
 [Array Cardio Day 1](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Four)
+
+## Day Five
+
+[Flex Panels Image Gallery](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Five)
