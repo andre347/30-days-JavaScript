@@ -21,3 +21,8 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Five
 
 [Flex Panels Image Gallery](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Five)
+
+
+## Day Six
+
+[Ajax Type Ahead](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Six)
