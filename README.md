@@ -26,3 +26,8 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Six
 
 [Ajax Type Ahead](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Six)
+
+
+## Day Nine
+
+[14 Must Know Dev Tools Tricks](https://developers.google.com/web/tools/chrome-devtools/console/)
