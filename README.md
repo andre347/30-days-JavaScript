@@ -44,3 +44,7 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Twelve
 
 [Key Sequence Detection (KONAMI CODE)](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Twelve)
+
+## Day Thirteen
+
+[Slide In on Scroll](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Thirteen)
