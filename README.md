@@ -40,3 +40,7 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Eleven
 
 [Custom HTML5 Video Player](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Eleven)
+
+## Day Twelve
+
+[Key Sequence Detection (KONAMI CODE)](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Twelve)
