@@ -48,3 +48,16 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Thirteen
 
 [Slide In on Scroll](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Thirteen)
+
+
+## Day Fourteen
+
+[Object and Arrays - Reference VS Copy](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Fourteen)
+
+## Day Fifteen
+
+[LocalStorage and Event Delegation](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Fifteen)
+
+## Day Seventeen
+
+[Sorting Band Names without articles](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Seventeen)
