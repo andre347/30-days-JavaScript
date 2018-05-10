@@ -22,16 +22,13 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 
 [Flex Panels Image Gallery](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Five)
 
-
 ## Day Six
 
 [Ajax Type Ahead](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Six)
 
-
 ## Day Nine
 
 [14 Must Know Dev Tools Tricks](https://developers.google.com/web/tools/chrome-devtools/console/)
-
 
 ## Day Ten
 
@@ -49,7 +46,6 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 
 [Slide In on Scroll](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Thirteen)
 
-
 ## Day Fourteen
 
 [Object and Arrays - Reference VS Copy](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Fourteen)
@@ -61,3 +57,7 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 ## Day Seventeen
 
 [Sorting Band Names without articles](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Seventeen)
+
+##Day Twenty
+
+[Native Speech Recognition](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Twenty)
