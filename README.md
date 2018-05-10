@@ -58,6 +58,6 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 
 [Sorting Band Names without articles](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Seventeen)
 
-##Day Twenty
+## Day Twenty
 
 [Native Speech Recognition](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Twenty)
