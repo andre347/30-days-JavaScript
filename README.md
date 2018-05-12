@@ -62,6 +62,10 @@ Following the 30 days of JavaScript on the website of [Wes Bos](https://courses.
 
 [Native Speech Recognition](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20Twenty)
 
+## Day Twenty Four
+
+[Sticky Nav](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20TwentyFour)
+
 ## Day Twenty Five
 
 [Event Capture, Propagation, Bubbling and Once](https://github.com/andre347/30-days-JavaScript/tree/master/Day%20TwentyFive)
